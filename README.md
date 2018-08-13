@@ -1,22 +1,32 @@
-Jogo Gourmet
-############
+# Jogo Gourmet
 
-
-## Para compilar
+# Para clonar
 ```
-#Linux
-./gradlew build
+git clone https://github.com/dvriesman/meujogogourmetx.git
+```
 
-#Windows
+## Para compilar no Linux
+```
+cd meujogogourmetx
+./gradlew build
+```
+
+## Para compilar no Windows
+```
+cd meujogogourmetx
 gradlew build
 ```
 
-## Para executar
+
+## Para executar no Linux
 ```
-#Linux
 cd build/libs
 java -jar MeuJogoGourmetX.jar
-#Windows
+```
+
+
+## Para executar no Windows
+```
 cd build\libs
 java -jar MeuJogoGourmetX.jar
 ```
