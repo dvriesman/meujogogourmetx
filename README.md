@@ -1,6 +1,6 @@
 # Jogo Gourmet
 
-# Para clonar
+## Para clonar
 ```
 git clone https://github.com/dvriesman/meujogogourmetx.git
 ```
